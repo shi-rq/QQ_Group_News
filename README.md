@@ -2,7 +2,7 @@
 Using machine learning to filter messages in a QQ group that is most likely to be news.  
 A test set of QQ group messages is needed, with individual message in such format:  
 >Nickname(1234567890)  19:06:25  
->[表情]
+>[表情]  
 >要来了要来了
 
 ## 1. Nearest_Neighbour
